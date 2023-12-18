@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572427963776",
+    "project_id": "module-16-assignment",
+    "storage_bucket": "module-16-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572427963776:android:4689a65c30075859cfc565",
+        "android_client_info": {
+          "package_name": "com.example.flutter_m16_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJhWWGh1EEGN4TmjLhz5uuI4QIB1hbxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
