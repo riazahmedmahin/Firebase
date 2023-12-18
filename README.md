@@ -1,9 +1,6 @@
-# flutter_m16_assignment
+# Firebase
 
 A new Flutter project.
-<img src="https://github.com/nazimfeni/flutter_m16_assignment/blob/master/screenshot/screen1jpg.jpg" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/flutter_m16_assignmentt/blob/master/screenshot/screen2.jpg" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/flutter_m16_assignment/blob/master/screenshot/screen3.jpg" width="200" height="400" alt="Potrait image">
 
 ## Getting Started
 
